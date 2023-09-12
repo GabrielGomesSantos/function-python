@@ -3,7 +3,6 @@ import os
 import math
 from time import sleep
 
-
 def menu():
     os.system('cls')
     print("=============================")
